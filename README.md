@@ -33,5 +33,5 @@ This is an built as part of Capstone 1 project and the goal is to recreate the [
  
  # LIVE LINK
  
- (Link)[https://akshithareddy1899.github.io/Capstone-1-HTML-CSS/]
+ [Link](https://akshithareddy1899.github.io/Capstone-1-HTML-CSS/)
  
