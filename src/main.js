@@ -37,12 +37,11 @@ let speakerData = [
    },
 ];
 
-let container = document.getElementById('container');
+const container = document.getElementById('container');
 
 function data() {
   speakerData.forEach((speaker) => {
-    container.innerHTML += `
-	<div class="speaker-list">
+    container.innerHTML += `<div class="speaker-list">
 	  <img src="${speaker.img}" alt="" class="speaker-img">
     <div class="speaker-content">
       <h2 class="speaker-header">${speaker.name}</h2>
@@ -50,8 +49,7 @@ function data() {
       <hr class="speaker-line">
       <p class="speaker-description">${speaker.Description}</p>
     </div>
-	</div>
-`;
+	</div>`;
   });
 }
 
