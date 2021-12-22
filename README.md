@@ -13,8 +13,11 @@ This is an built as part of Capstone 1 project and the goal is to recreate the [
 
 ### Design _[Cindy Shin](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015)
 
+## Inspired from [Never Alone](https://neveralonesummit.live)
+
 # Attributions
-### Icons from 
+
+ ### Icons from 
  
  [Freepik](https://www.freepik.com)
  
@@ -22,7 +25,7 @@ This is an built as part of Capstone 1 project and the goal is to recreate the [
  
  ### Logo from
  
- [pngtree](https://pngtree.com/so/golden)
+ [pngtree](https://pngtree.com/so/golden))
  
  ### Pictures from 
  
