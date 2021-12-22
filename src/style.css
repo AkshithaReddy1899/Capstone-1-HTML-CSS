@@ -1,6 +1,6 @@
 :root {
 	--font-lato: 'Lato', sans-serif;
-  --font-roboto: 'Roboto', sans-serif;
+    --font-roboto: 'Roboto', sans-serif;
 	--font-ooh: 'Oooh Baby', cursive;
 }
 
@@ -13,7 +13,7 @@
 /* GENERAL STYLING */
 
 body {
-	 width: 100vw;
+	width: 100vw;
 	height: 100vh;
 	font-family: var(--font-lato);
 	font-weight: 600;
@@ -23,7 +23,7 @@ body {
 }
 
 a {
-	color: black;
+    color: black;
 	text-decoration: none;
 }
 
@@ -1069,17 +1069,16 @@ footer {
 	}
 }
 
-@media screen and (min-width:920px){
+@media screen and (min-width:920px) {
 
-	/* HELP */
+	 /* HELP */
+	 .help-list {
+			margin: 30px 40px;
+	  }
 
-	.help-list {
-		margin: 30px 40px;
-	}
-	
-	/* SPEAKER */
-	.speaker-list {
-		margin: 40px 10px;
-		width: 500px;
-	}
+	  /* SPEAKER */
+	 .speaker-list {
+	  	margin: 40px 10px;
+	  	width: 500px;
+	  }
 }
