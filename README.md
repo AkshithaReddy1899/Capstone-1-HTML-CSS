@@ -44,5 +44,5 @@ This is an built as part of Capstone 1 project and the goal is to recreate the [
  
  ### Logo from
  
- [pngtree](https://pngtree.com/so/golden))
+ [pngtree](https://pngtree.com/so/golden)
  
