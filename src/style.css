@@ -411,7 +411,7 @@ header {
 /* FOOTER */
 
 footer {
-  background: #b3b3b3;
+  background: #fff;
   padding: 40px 10px;
   display: flex;
   flex-direction: row;
@@ -527,12 +527,12 @@ footer {
 /* FOOTER */
 
 .about-footer {
-  background: #1d1d1d;
-  color: #b3b3b3;
+  background: #fff;
+  color: #000;
 }
 
 .about-footer-logo {
-  color: #fff;
+  color: #000;
 }
 
 @media screen and (min-width: 520px) {
@@ -975,11 +975,14 @@ footer {
   /* FOOTER */
 
   footer {
+    background: #000;
+    color: #fff;
     padding: 50px;
   }
 
   .footer-logo {
     font-size: 1.5rem;
+    color: #fff;
   }
 
   .footer-logo-img {
