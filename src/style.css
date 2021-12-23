@@ -441,38 +441,49 @@ footer {
 
 /*** ABOUT PAGE ****/
 
-/* MAIN */
-
 .about-page {
+  width: 100vw;
+  height: 100vh;
+}
+
+.about-page-main {
   margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
-.about-page-contact {
-  padding-bottom: 40px;
-}
-
-.about-page-main-text,
 .about-page-main-text-1 {
   margin: 0;
+  padding-top: 200px;
   text-align: center;
 }
 
 .about-page-box {
-  margin: 30px auto;
+  margin-top: 50px;
   box-shadow:
     5px 5px 15px #b3b3b3,
     -5px -5px 15px #f3f3f3;
 }
 
+.about-page-contact {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
 .about-page-contact p {
-  font-size: 14px;
-  color: #b3b3b3;
-  margin: 30px 10px;
+  color: #d3d3d3;
+  padding: 20px 10px 10px 10px;
+  text-align: center;
 }
 
 .about-page-contact small {
-  border: none;
-  border-bottom: 1px solid #1d1d1d;
+  color: #ec5242;
+  font-size: 16px;
+  text-decoration: underline;
 }
 
 /* ABOUT SECTION */
