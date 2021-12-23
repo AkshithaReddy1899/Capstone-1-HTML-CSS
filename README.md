@@ -22,6 +22,11 @@ This is an built as part of Capstone 1 project and the goal is to recreate the [
 
 ## Inspired from [Never Alone](https://neveralonesummit.live)
 
+# LIVE LINK
+ 
+ [Link](https://akshithareddy1899.github.io/Capstone-1-HTML-CSS/)
+ 
+
 # Attributions
 
 ### Pictures from 
@@ -40,9 +45,4 @@ This is an built as part of Capstone 1 project and the goal is to recreate the [
  ### Logo from
  
  [pngtree](https://pngtree.com/so/golden))
- 
- 
- # LIVE LINK
- 
- [Link](https://akshithareddy1899.github.io/Capstone-1-HTML-CSS/)
  
