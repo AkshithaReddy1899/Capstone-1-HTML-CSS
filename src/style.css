@@ -476,13 +476,15 @@ footer {
 
 .about-page-contact p {
   color: #d3d3d3;
-  padding: 20px 10px 10px 10px;
+  padding: 50px 10px 0 10px;
   text-align: center;
 }
 
 .about-page-contact small {
   color: #ec5242;
-  font-size: 16px;
+  font-size: 18px;
+  padding-top: 40px;
+  font-weight: 900;
   text-decoration: underline;
 }
 
@@ -1038,18 +1040,17 @@ footer {
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    margin: 0 auto;
   }
 
   .about-page-contact p {
     color: #fff;
-    font-weight: 100;
-    font-size: 1.2rem;
     width: 500px;
+    padding-top: 0;
   }
 
-  .about-page-contact b {
-    margin: 0 auto;
+  .about-page-contact small {
+    padding-top: 0;
+    padding-bottom: 60px;
   }
 
   .about-page-header {
