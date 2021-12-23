@@ -214,22 +214,31 @@ header {
 
 .year {
   margin-top: 10px;
-  font-size: 1.2rem;
+  font-size: 1.3rem;
 }
 
 .main-description {
   font-size: 1.2rem;
   padding: 5px 0;
-  line-height: 1.6rem;
+  line-height: 1.8rem;
   margin-top: 10px;
   color: #fff;
+  font-weight: 100;
+}
+
+.main-sub-heading {
+  font-size: 1.7rem;
+}
+
+.main-time a {
+  color: #e2e2e2;
   font-weight: 100;
 }
 
 .main-about {
   width: 80%;
   height: auto;
-  margin: 1px auto;
+  margin: 1px 0 1px 20px;
   border: 1px solid #fff;
   background: linear-gradient(145deg, #bebebe, #e2e2e2);
 }
@@ -244,7 +253,7 @@ header {
 .main-time {
   color: #fff;
   margin-top: 25px;
-  margin-left: 35px;
+  margin-left: 20px;
   font-size: 1.7rem;
   text-align: left;
   padding-bottom: 30px;
@@ -847,6 +856,7 @@ footer {
 
   .main-about {
     width: 40%;
+    margin-top: -60px;
   }
 
   .main-time {
